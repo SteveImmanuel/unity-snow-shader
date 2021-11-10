@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SnowMat
+  m_Shader: {fileID: -6465566751694194690, guid: b3c169bc526034047b17a93e74b97e42, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_ed50b1ae7e8043b6b0e8cc91930d10b8:
+        m_Texture: {fileID: 8400000, guid: 0949dce50a4ffab4ca0ffb238fccb8b2, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_080eadd95a87412db3ee9a7daa44b851: 20.34
+    - Vector1_2addb1831c0d46f089c273f935204507: -0.155
+    - Vector1_43fd2757d23d418a802d8fbb1e1be9f7: 0.66
+    - Vector1_44338abca4304cb3a34495363f6bd952: 1.46
+    - Vector1_8fd4c08ccea248dfadeb01d6c35833b1: 0
+    - Vector1_943cff6581544155802574680f639c13: 1.68
+    - Vector1_dd6f681f40b64e50a577b8ece28213c0: 0
+    m_Colors:
+    - Color_5ed1dff48c864acab3e25c729cb2008c: {r: 1, g: 1, b: 1, a: 0}
+    - Color_def7c3f311b04d9f9604bcf2ed7ff3e7: {r: 0.4245283, g: 0.4245283, b: 0.4245283, a: 0}
+  m_BuildTextureStacks: []
