@@ -9,7 +9,6 @@ public class BallShooter : MonoBehaviour
 
     private void Start()
     {
-        Destroy(gameObject, 5);
     }
 
     private void Update()
@@ -26,5 +25,6 @@ public class BallShooter : MonoBehaviour
         GameObject ball = Instantiate(ballPrefab, transform.position, transform.rotation);
         Rigidbody rb = ball.GetComponent<Rigidbody>();
         rb.velocity = ray.direction * initialSpeed;
+        Destroy(ball, 50);
     }
 }
