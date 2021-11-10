@@ -19,12 +19,6 @@
             "m_Id": "dd6f681f40b64e50a577b8ece28213c0"
         },
         {
-            "m_Id": "2addb1831c0d46f089c273f935204507"
-        },
-        {
-            "m_Id": "44338abca4304cb3a34495363f6bd952"
-        },
-        {
             "m_Id": "ed50b1ae7e8043b6b0e8cc91930d10b8"
         },
         {
@@ -908,29 +902,6 @@
 }
 
 {
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "2addb1831c0d46f089c273f935204507",
-    "m_Guid": {
-        "m_GuidSerialized": "1e4fe55b-16c4-44e9-9798-9e91a0d5fdd6"
-    },
-    "m_Name": "TrackDepth",
-    "m_DefaultReferenceName": "Vector1_2addb1831c0d46f089c273f935204507",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": -0.019999999552965165,
-    "m_FloatType": 1,
-    "m_RangeValues": {
-        "x": -1.0,
-        "y": 0.0
-    }
-}
-
-{
     "m_SGVersion": 0,
     "m_Type": "UnityEditor.ShaderGraph.DynamicVectorMaterialSlot",
     "m_ObjectId": "2e53b56a5b4746b095e9a32f5fe62f6b",
@@ -1126,29 +1097,6 @@
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
     "m_Value": 1.0099999904632569,
-    "m_FloatType": 0,
-    "m_RangeValues": {
-        "x": 0.0,
-        "y": 1.0
-    }
-}
-
-{
-    "m_SGVersion": 1,
-    "m_Type": "UnityEditor.ShaderGraph.Internal.Vector1ShaderProperty",
-    "m_ObjectId": "44338abca4304cb3a34495363f6bd952",
-    "m_Guid": {
-        "m_GuidSerialized": "a8f3d86b-2bd4-41a0-b253-c4c0e2ec8d42"
-    },
-    "m_Name": "NormalStrength",
-    "m_DefaultReferenceName": "Vector1_44338abca4304cb3a34495363f6bd952",
-    "m_OverrideReferenceName": "",
-    "m_GeneratePropertyBlock": true,
-    "m_Precision": 0,
-    "overrideHLSLDeclaration": false,
-    "hlslDeclarationOverride": 0,
-    "m_Hidden": false,
-    "m_Value": -0.07000000029802323,
     "m_FloatType": 0,
     "m_RangeValues": {
         "x": 0.0,
