@@ -7,4 +7,4 @@ Implemented using Unity 2020.3.4f1.
 </div>
 <br>
 
-Checkout full tutorial and detailed explanations <a href=https://hackmd.io/xbL5X2oNRNu3EPjjUj9y6A>here</a>.
+Checkout full tutorial and detailed explanations <a href=https://steveimm.id/posts/snow-trail/>here</a>.
